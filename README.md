@@ -15,3 +15,7 @@
 <a href="https://www.instagram.com/thisiskishor" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-@thisiskishor-e4405f?style=flat-square&labelColor=e4405f&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<a href="https://www.threads.com/thisiskishor" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-@thisiskishor-e4405f?style=flat-square&labelColor=e4405f&logo=instagram&logoColor=white" alt="Instagram">
+</a>

@@ -17,5 +17,5 @@
 </a>
 
 <a href="https://www.threads.com/thisiskishor" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-@thisiskishor-e4405f?style=flat-square&labelColor=e4405f&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/-@thisiskishor-000000?style=flat-square&labelColor=000000&logo=threads&logoColor=white" alt="Instagram">
 </a>

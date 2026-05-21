@@ -1,6 +1,8 @@
 ## Kishor Gartaula
 
-**Building tools for careful, systematic engineering.**
+**A marketer learning to build in the AI and agentic era.**
+
+I'm exploring what's possible when marketing meets systems thinking and AI. Building tools, sharing insights, and figuring out this Agentic era one project at a time.
 
 ---
 
@@ -28,7 +30,7 @@
 
 ### Support My Work
 
-If you find these tools valuable, consider buying me a coffee ☕
+If something I build or share helps you, consider buying me a coffee ☕
 
 <div>
   <a href="https://ko-fi.com/thisiskishor" target="_blank" rel="noopener noreferrer">
@@ -41,4 +43,4 @@ If you find these tools valuable, consider buying me a coffee ☕
 
 ---
 
-**MIT Licensed** • Open source, free to use, modify, and share
+**Open source. Free to use, modify, and share.**
